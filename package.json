@@ -1,13 +1,13 @@
 {
-  "name": "audio-decode",
-  "version": "1.4.0",
+  "name": "@pragli/audio-decode",
+  "version": "1.4.1",
   "description": "Decode audio data in node or browser",
   "main": "index.js",
   "dependencies": {
     "audio-buffer-from": "^1.1.1",
     "audio-context": "^1.0.1",
     "audio-type": "^1.0.2",
-    "av": "^0.4.9",
+    "@pragli/av": "^0.4.10",
     "is-buffer": "^1.1.4",
     "mp3": "^0.1.0",
     "to-array-buffer": "^2.0.0",
